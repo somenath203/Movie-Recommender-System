@@ -6,11 +6,6 @@ The Movie Recommender System is a machine learning project designed to recommend
 provide personalized movie recommendations. The system is built using Python and uses libraries such as pandas and scikit-learn for data manipulation and machine learning. Additionally, a 
 Streamlit app is developed for a user-friendly interface to interact with the recommendation system.
 
-## Technologies Used
-
-- **Pandas**: Utilized for data manipulation and analysis.
-- **Scikit-learn**: Employed for implementing machine learning algorithms.
-- **Streamlit**: A framework for creating interactive web applications.
 
 ## Live Preview of the application
 
