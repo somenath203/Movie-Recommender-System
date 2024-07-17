@@ -9,7 +9,6 @@ Streamlit app is developed for a user-friendly interface to interact with the re
 ## Technologies Used
 
 - **Pandas**: Utilized for data manipulation and analysis.
-- **NumPy**: Used for numerical operations.
 - **Scikit-learn**: Employed for implementing machine learning algorithms.
 - **Streamlit**: A framework for creating interactive web applications.
 
