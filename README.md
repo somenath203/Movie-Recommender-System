@@ -14,6 +14,10 @@ Streamlit app is developed for a user-friendly interface to interact with the re
 - **Scikit-learn**: Employed for implementing machine learning algorithms.
 - **Streamlit**: A framework for creating interactive web applications.
 
+## Live Preview of the application
+
+https://som11-movie-recommendation-system.hf.space/
+
 
 ## Demo Video of the Project
 
